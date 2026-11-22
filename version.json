@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/daniyal-muzaffar/moneywise/releases/download/v2.4.2/MoneyWise-v2.4.2.apk","notes":"Crash fix for the app closing on its own (swipe-to-delete in History).","versionCode":16,"versionName":"2.4.2"}
+{"apkUrl":"https://github.com/daniyal-muzaffar/moneywise/releases/download/v2.4.3/MoneyWise-v2.4.3.apk","notes":"History tab: scroll position preserved across refreshes and syncs; smoother scrolling.","versionCode":17,"versionName":"2.4.3"}
